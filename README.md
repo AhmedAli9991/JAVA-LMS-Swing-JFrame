@@ -21,5 +21,6 @@ all three of them have specific functions according to their roles
 - Teacher to enter update and delete marks of students
 - marks of Assignments and Quizes are managed
 - student to view their marks 
+- Chat system between Student and Faculty
 
 ### End
