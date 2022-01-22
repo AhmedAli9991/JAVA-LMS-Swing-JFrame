@@ -15,11 +15,11 @@ It is an LMS(learning management System) this was the Semseter project given to 
 3.Student
 all three of them have specific functions according to their roles
 
-###Features
+### Features
 
 - Admin to create,update or delete a techer and student 
 - Teacher to enter update and delete marks of students
 - marks of Assignments and Quizes are managed
 - student to view their marks 
 
-###End
+### End
